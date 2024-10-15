@@ -1,0 +1,16 @@
+{
+  "data": {
+    "customer": {
+      "name": "Costumer",
+      "email": "costumeri@costumer.com",
+      "password": "password"
+    },
+    "supplier": {
+      "name": "Supplier",
+      "address": "Supplier Road",
+      "description": "Default Description",
+      "email": "supplieri@supplier.com",
+      "password": "password"
+    }
+  }
+}
